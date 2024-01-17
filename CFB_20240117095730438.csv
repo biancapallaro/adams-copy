@@ -1,0 +1,199 @@
+ELECTION,OFFICECD,CANDID,CANCLASS,CANDLAST,CANDFIRST,CANDMI,COMMITTEE,FILING,SCHEDULE,PAGENO,SEQUENCENO,REFNO,INV_DATE,DATE,NAME,C_CODE,ORG_IND,STRNO,STRNAME,APARTMENT,CITY,STATE,ZIP,PAY_METHOD,AMNT,PURPOSECD,PURPOSE,EXPLAIN,EXEMPTCD,RR_IND,SEG_IND
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089225,2/10/2023,2/10/2023,Abacus Insurance,CORP,Y,,,,Brooklyn,NY,11232,Unknown,414.00,FUNDR,Fundraising,Certificate of Insur,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082164,3/3/2022,3/3/2022,ActBlue Donate,CORP,Y,,,,,,,Unknown,978.00,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082166,4/4/2022,4/4/2022,ActBlue Donate,CORP,Y,,,,,,,Unknown,3579.02,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082168,5/4/2022,5/4/2022,ActBlue Donate,CORP,Y,,,,,,,Unknown,4476.83,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082170,6/3/2022,6/3/2022,ActBlue Donate,CORP,Y,,,,,,,Unknown,478.50,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082172,7/7/2022,7/7/2022,ActBlue Donate,CORP,Y,,,,,,,Unknown,1437.78,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082191,7/11/2022,7/11/2022,ActBlue Donate,CORP,Y,,,,,,,Unknown,2310.83,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086960,12/5/2022,12/5/2022,ActBlue Donate,CORP,Y,,,,,,,Unknown,954.08,BCFEES,Bank&Credit Fee,Service Charge,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086961,11/7/2022,11/7/2022,ActBlue Donate,CORP,Y,,,,,,,Unknown,1569.38,BCFEES,Bank&Credit Fee,Service Charge,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087066,8/5/2022,8/5/2022,ActBlue Donate,CORP,Y,,,,,,,Unknown,128.26,BCFEES,Bank&Credit Fee,Service Charge,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087067,9/6/2022,9/6/2022,ActBlue Donate,CORP,Y,,,,,,,Unknown,793.31,BCFEES,Bank&Credit Fee,Service Charge,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087068,10/5/2022,10/5/2022,ActBlue Donate,CORP,Y,,,,,,,Unknown,339.75,BCFEES,Bank&Credit Fee,Service Charge,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089163,1/13/2023,1/13/2023,ActBlue Donate,CORP,Y,,,,,,,Unknown,222.17,BCFEES,Bank&Credit Fee,Actblue,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089165,2/3/2023,2/3/2023,ActBlue Donate,CORP,Y,,,,,,,Unknown,108.38,BCFEES,Bank&Credit Fee,Fundraising,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089229,6/5/2023,6/5/2023,ActBlue Donate,CORP,Y,,,,,,,Unknown,2341.19,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089230,5/4/2023,5/4/2023,ActBlue Donate,CORP,Y,,,,,,,Unknown,567.30,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089231,4/5/2023,4/5/2023,ActBlue Donate,CORP,Y,,,,,,,Unknown,651.77,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089300,8/3/2023,8/3/2023,ActBlue Donate,CORP,Y,,,,,,,Unknown,1656.00,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089355,9/5/2023,9/5/2023,ActBlue Donate,CORP,Y,,,,,,,Unknown,1709.28,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089380,10/5/2023,10/5/2023,ActBlue Donate,CORP,Y,,,,,,,Unknown,1148.64,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089384,11/3/2023,11/3/2023,ActBlue Donate,CORP,Y,,,,,,,Unknown,2542.07,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089403,12/4/2023,12/4/2023,ActBlue Donate,CORP,Y,,,,,,,Unknown,411.76,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082173,3/14/2022,3/14/2022,ALLIANZ TRAVEL INS,CORP,Y,,,,,,,Unknown,24.82,OTHER,Other: explntion,Flight Insurance,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087048,7/26/2022,7/26/2022,ALLIANZ TRAVEL INS,CORP,Y,,,,,,,Unknown,48.48,FUNDR,Fundraising,Service Charge,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082138,3/25/2022,3/25/2022,Amazon,CORP,Y,,,,Seattle,WA,98108,Unknown,60.60,OFFCE,Office Expenses,Thank You Cards,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0083839,6/2/2023,6/2/2023,Amazon,CORP,Y,,,,Seattle,WA,98108,Unknown,82.72,OFFCE,Office Expenses,Expense for Fundrais,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082130,3/13/2022,3/13/2022,AMERICAN AIRLINES,CORP,Y,,,,Fort Worth,TX,76155,Unknown,21.42,OTHER,Other: explntion,Flight,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082131,3/14/2022,3/14/2022,AMERICAN AIRLINES,CORP,Y,,,,Fort Worth,TX,76155,Unknown,105.72,OTHER,Other: explntion,Flight,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082133,3/14/2022,3/14/2022,AMERICAN AIRLINES,CORP,Y,,,,Fort Worth,TX,76155,Unknown,199.60,OTHER,Other: explntion,FLIGHT,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082134,3/15/2022,3/15/2022,AMERICAN AIRLINES,CORP,Y,,,,Fort Worth,TX,76155,Unknown,239.60,OTHER,Other: explntion,FLIGHT,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082189,3/16/2022,3/16/2022,AMERICAN AIRLINES,CORP,Y,,,,Fort Worth,TX,76155,Unknown,352.19,OTHER,Other: explntion,flight,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089317,10/10/2023,10/10/2023,Angelina's Ristorante,CORP,Y,,,,Staten Island,NY,10307,Unknown,1247.88,FUNDR,Fundraising,Fundraiser,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086956,5/1/2023,5/1/2023,Bagel Boy,LLC,Y,,,,Brooklyn,NY,11235,Unknown,997.34,FUNDR,Fundraising,Fundraiser,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082179,3/3/2022,3/3/2022,Barashka,CORP,Y,,,,,,,Unknown,501.17,FUNDR,Fundraising,Fundraiser,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089331,10/23/2023,10/23/2023,Bato Coffee and Wine,CORP,Y,,,,Bronx,NY,10458,Unknown,1500.00,FUNDR,Fundraising,Fundraiser,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086943,6/15/2023,6/15/2023,Breadberry,LLC,Y,,,,Brooklyn,NY,11204,Unknown,954.95,FUNDR,Fundraising,Kosher Food,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089378,10/2/2023,10/2/2023,Breadberry,LLC,Y,,,,Brooklyn,NY,11204,Unknown,678.56,FUNDR,Fundraising,Fundraiser,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089309,8/23/2023,8/23/2023,Buoy One - East Hampton,CORP,Y,,,,Westhampton,NY,11977,Unknown,1600.00,FUNDR,Fundraising,Fundraiser,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082142,3/29/2022,3/29/2022,CASA CIPRIANI CLUB,CORP,Y,,,,BOWLING GREEN,NY,10004,Unknown,1610.94,FUNDR,Fundraising,Campaign Event,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087075,4/5/2023,4/7/2023,CASA CIPRIANI CLUB,CORP,Y,,,,BOWLING GREEN,NY,10004,Unknown,3866.25,FUNDR,Fundraising,Campaign Event,,N,N
+2025,1,1545,P,Adams,Eric,L,N,2,F,,,R0083421,12/31/2022,12/31/2022,"Ciorciari, Frances",IND,N,,,,Dingmans Ferry,PA,18328,Unknown,3000.00,CONSL,Campgn Consuls.,Outreach to Previous,ALA,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,N,,,R0083432,,12/14/2022,Club 101,LLC,Y,,,,New York,NY,10178,,3685.34,FUNDR,Fundraising,Fundraiser,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089324,10/30/2023,10/30/2023,Cocina Taller,OTHR,Y,,,,New York,NY,10034,Unknown,2500.00,FUNDR,Fundraising,Fundraiser,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089312,8/29/2023,8/29/2023,Colbeh Restaurant,CORP,Y,,,,GREAT NCK PLZ,NY,11021,Unknown,5000.00,FUNDR,Fundraising,Fundraiser,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082177,5/9/2022,5/9/2022,DELTA AIR,CORP,Y,,,,Hapeville,GA,30354,Unknown,998.60,OTHER,Other: explntion,FLIGHT,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086949,6/29/2023,6/29/2023,Fedex,CORP,Y,,,,,,,Unknown,11.10,OFFCE,Office Expenses,Return Check,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087049,8/12/2022,8/12/2022,Fedex,CORP,Y,,,,,,,Unknown,53.57,FUNDR,Fundraising,Service Charge,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087050,8/12/2022,8/12/2022,Fedex,CORP,Y,,,,,,,Unknown,23.48,FUNDR,Fundraising,Service Charge,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082153,4/4/2022,4/4/2022,Felice,LLC,Y,,,,PECK SLIP,NY,10038,Unknown,1000.00,FUNDR,Fundraising,Fundraiser,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082162,5/6/2022,5/6/2022,Ferro's Restaurant LLC,LLC,Y,,,,New York,NY,10022,Unknown,750.00,FUNDR,Fundraising,Fundraiser,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086923,6/2/2023,6/2/2023,Google,CORP,Y,,,,Mountain View,CA,94043,Unknown,515.84,OFFCE,Office Expenses,Gmail Accounts,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086952,7/3/2023,7/3/2023,Google,CORP,Y,,,,Mountain View,CA,94043,Unknown,561.41,OFFCE,Office Expenses,GMAIL Accounts,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089298,8/2/2023,8/2/2023,Google,CORP,Y,,,,Mountain View,CA,94043,Unknown,564.41,OFFCE,Office Expenses,Google Suite,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089314,10/2/2023,10/2/2023,Google,CORP,Y,,,,Mountain View,CA,94043,Unknown,564.41,OFFCE,Office Expenses,Google Suite,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089319,11/2/2023,11/2/2023,Google,CORP,Y,,,,Mountain View,CA,94043,Unknown,564.41,OFFCE,Office Expenses,Google Suite,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089353,9/5/2023,9/5/2023,Google,CORP,Y,,,,Mountain View,CA,94043,Unknown,564.41,OFFCE,Office Expenses,Google Suite,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082140,3/28/2022,3/28/2022,GRAPHICOLOR Print Shop,LLC,Y,,,,Brooklyn,NY,11217,Unknown,93.90,OFFCE,Office Expenses,Thank you Cards,,N,N
+2025,1,1545,P,Adams,Eric,L,N,2,F,,,R0083419,10/18/2022,10/20/2022,GrubHub Holdings Inc.,CORP,Y,,,,Chicago,IL,60694,Unknown,1641.38,FUNDR,Fundraising,Fundraiser,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0088518,6/8/2023,10/20/2023,Hakka Cusinine LLC,LLC,Y,,,,New York,NY,10002,Unknown,2800.00,FUNDR,Fundraising,Fundraising Cost,,N,N
+2025,1,1545,P,Adams,Eric,L,N,2,F,,,R0083429,8/18/2022,8/18/2022,Hampton Aristocrat,LLC,Y,,,,W HAMPTON BCH,NY,11978,Unknown,1794.81,FUNDR,Fundraising,Food,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087069,3/4/2022,3/4/2022,Harland Clarke,CORP,Y,,,,,,,Unknown,27.00,FUNDR,Fundraising,Service Charge,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087070,8/26/2022,8/26/2022,Harland Clarke,CORP,Y,,,,,,,Unknown,30.35,FUNDR,Fundraising,Service Charge,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082154,4/10/2022,4/10/2022,Harrison Building 4 Urban Rene,LLC,Y,,,,Hoboken,NJ,07030,Unknown,750.00,FUNDR,Fundraising,Fundraiser,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082160,5/3/2022,5/3/2022,Hilton Beverly Hills,CORP,Y,,,,Beverly Hills,CA,90210,Unknown,642.32,OTHER,Other: explntion,Hotel-Consultant,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082161,5/3/2022,5/3/2022,Hilton Beverly Hills,CORP,Y,,,,Beverly Hills,CA,90210,Unknown,642.32,OTHER,Other: explntion,Hotel Stay- EA,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082159,5/3/2022,5/3/2022,HILTON CIRCA 55,CORP,Y,,,,Beverly Hills,CA,90210,Unknown,500.00,WAGES,Campgn Wrkrs $$,Lunch,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082149,4/1/2022,4/1/2022,HYATT REGENCY JFK,CORP,Y,,,,Ozone Park,NY,11417,Unknown,151.53,WAGES,Campgn Wrkrs $$,Hotel Stay,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082150,4/1/2022,4/1/2022,HYATT REGENCY JFK,CORP,Y,,,,Ozone Park,NY,11417,Unknown,303.06,WAGES,Campgn Wrkrs $$,Hotel Stay,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082152,4/1/2022,4/1/2022,HYATT REGENCY JFK,CORP,Y,,,,Ozone Park,NY,11417,Unknown,151.53,WAGES,Campgn Wrkrs $$,Hotel Stay,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082156,4/21/2022,4/21/2022,JetBlue,CORP,Y,,,,Long Island City,NY,11101,Unknown,268.60,OTHER,Other: explntion,Plane Tickets,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082158,4/25/2022,4/25/2022,JetBlue,CORP,Y,,,,Long Island City,NY,11101,Unknown,268.60,OTHER,Other: explntion,Plane Tickers,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087046,7/27/2022,7/27/2022,JetBlue,CORP,Y,,,,Long Island City,NY,11101,Unknown,718.20,FUNDR,Fundraising,Service Charge,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087047,8/15/2022,8/15/2022,JetBlue,CORP,Y,,,,Long Island City,NY,11101,Unknown,544.10,FUNDR,Fundraising,Travel,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086898,5/1/2023,5/1/2023,Jujamcyn Theaters,LLC,Y,,,,New York,NY,10036,Unknown,75000.00,FUNDR,Fundraising,"""New York, New York""",,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086936,6/16/2023,6/16/2023,Jujamcyn Theaters,LLC,Y,,,,New York,NY,10036,Unknown,3000.00,FUNDR,Fundraising,Extra Tickets,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082127,1/29/2022,3/2/2022,LA BAIA,LLC,Y,,,,New York,NY,10019,Unknown,1000.00,FUNDR,Fundraising,Meet and Greet,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086919,5/24/2023,5/24/2023,LA BAIA,LLC,Y,,,,New York,NY,10019,Unknown,1531.00,FUNDR,Fundraising,Fundraiser,,N,N
+2025,1,1545,P,Adams,Eric,L,N,2,F,,,R0083310,10/26/2022,10/26/2022,La Nueva Espana,LLC,Y,,,,New York,NY,10034,Unknown,824.78,FUNDR,Fundraising,Fundraiser,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082157,4/21/2022,4/21/2022,Lebanese Eatery,LLC,Y,,,,Staten Island,NY,10302,Unknown,1040.00,FUNDR,Fundraising,Fundraiser,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086514,7/10/2023,7/10/2023,Loews Regency New York,CORP,Y,,,,New York,NY,10065,Unknown,8078.53,FUNDR,Fundraising,Fundraiser 7/10/23,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089322,11/24/2023,11/24/2023,Mailchimp (C/O The Rocket Scie,CORP,Y,,,,Atlanta,GA,30308,Unknown,1644.01,OFFCE,Office Expenses,Email List,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089326,10/24/2023,10/24/2023,Mailchimp (C/O The Rocket Scie,CORP,Y,,,,Atlanta,GA,30308,Unknown,1644.01,OFFCE,Office Expenses,Email List,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,N,,,R0088522,,9/21/2023,Megan's Bar and Kitchen,LLC,Y,,,,New York,NY,10036,,1701.15,FUNDR,Fundraising,Catering Cost,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082136,3/21/2022,3/21/2022,Mesler Kitchen,LLC,Y,,,,Chicago,IL,60615,Unknown,170.00,WAGES,Campgn Wrkrs $$,Lunch for Campaign,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089360,8/26/2023,8/26/2023,NAIA HAMPTONS,CORP,Y,,,,Southampton,NY,11968,Unknown,1998.00,FUNDR,Fundraising,Fundraiser,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,N,,,R0081403,,6/30/2022,Newmark & Company Real Estate,CORP,Y,,,,New York,NY,10017,,179.95,FUNDR,Fundraising,Fundraiser,,N,N
+2025,1,1545,P,Adams,Eric,L,N,2,F,,,R0082268,2/1/2022,11/2/2022,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,PROFL,Prof. Srvcs.,Legal & Compliance,,N,N
+2025,1,1545,P,Adams,Eric,L,N,2,F,,,R0082269,3/1/2022,11/2/2022,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,PROFL,Prof. Srvcs.,Legal & Compliance,,N,N
+2025,1,1545,P,Adams,Eric,L,N,2,F,,,R0082270,4/1/2022,11/2/2022,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,PROFL,Prof. Srvcs.,Legal & Compliance,,N,N
+2025,1,1545,P,Adams,Eric,L,N,2,F,,,R0082271,5/2/2022,11/2/2022,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,PROFL,Prof. Srvcs.,Legal & Compliance,,N,N
+2025,1,1545,P,Adams,Eric,L,N,2,F,,,R0082272,6/1/2022,11/2/2022,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,PROFL,Prof. Srvcs.,Legal & Compliance,,N,N
+2025,1,1545,P,Adams,Eric,L,N,2,F,,,R0082273,7/1/2022,11/2/2022,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,PROFL,Prof. Srvcs.,Legal & Compliance,,N,N
+2025,1,1545,P,Adams,Eric,L,N,2,F,,,R0082274,8/1/2022,11/2/2022,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,PROFL,Prof. Srvcs.,Legal & Compliance,,N,N
+2025,1,1545,P,Adams,Eric,L,N,2,F,,,R0082275,9/1/2022,11/2/2022,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,PROFL,Prof. Srvcs.,Legal & Compliance,,N,N
+2025,1,1545,P,Adams,Eric,L,N,2,F,,,R0082276,10/1/2022,11/2/2022,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,PROFL,Prof. Srvcs.,Legal & Compliance,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086847,12/1/2022,7/3/2023,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,PROFL,Prof. Srvcs.,Legal & Compliance,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086850,1/3/2023,7/3/2023,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,PROFL,Prof. Srvcs.,Legal & Compliance,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086852,2/1/2023,7/3/2023,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,CONSL,Campgn Consuls.,Legal Fees,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086854,3/1/2023,7/3/2023,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,CONSL,Campgn Consuls.,Legal Fees,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086856,4/1/2023,7/3/2023,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,CONSL,Campgn Consuls.,Legal Fees,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086858,5/1/2023,7/3/2023,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,CONSL,Campgn Consuls.,Legal Fees,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086860,6/1/2023,7/3/2023,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,CONSL,Campgn Consuls.,Legal Fees,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086862,7/1/2023,7/3/2023,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,CONSL,Campgn Consuls.,Legal Fees,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086870,11/1/2022,7/3/2023,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,PROFL,Prof. Srvcs.,Legal & Compliance,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089407,8/1/2023,8/1/2023,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,PROFL,Prof. Srvcs.,Legal & Compliance,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089408,9/1/2023,9/1/2023,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,PROFL,Prof. Srvcs.,Legal & Compliance,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089409,10/2/2023,10/2/2023,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,PROFL,Prof. Srvcs.,Legal & Compliance,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089410,11/1/2023,11/1/2023,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,PROFL,Prof. Srvcs.,Legal & Compliance,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089411,12/1/2023,12/1/2023,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,PROFL,Prof. Srvcs.,Legal & Compliance,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089412,1/2/2024,1/2/2024,Pitta LLP,CORP,Y,,,,New York,NY,10271,Unknown,7500.00,PROFL,Prof. Srvcs.,Legal & Compliance,,N,N
+2025,1,1545,P,Adams,Eric,L,N,2,F,,,R0083302,9/28/2022,10/20/2022,Residence Inn Bronx,CORP,Y,,,,The Bronx,NY,10461,Unknown,783.90,FUNDR,Fundraising,Fundraiser,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082128,2/23/2022,2/23/2022,Side Door,LLC,Y,,,,New York,NY,10022,Unknown,2003.52,FUNDR,Fundraising,Fundraiser,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089336,10/24/2023,10/24/2023,squareSPACE,CORP,Y,,,,,,,Unknown,156.78,OFFCE,Office Expenses,URL,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089338,10/24/2023,10/24/2023,squareSPACE,CORP,Y,,,,,,,Unknown,12.00,OFFCE,Office Expenses,url,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087015,6/30/2023,6/30/2023,Stripe - Contribute,CORP,Y,,,,San Francisco,CA,94103,Unknown,152.73,OTHER,Other: explntion,Stripe Fees,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087017,5/31/2023,5/31/2023,Stripe - Contribute,CORP,Y,,,,San Francisco,CA,94103,Unknown,3.20,OTHER,Other: explntion,Stripe Fees,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0088962,8/31/2023,8/31/2023,Stripe - Contribute,CORP,Y,,,,San Francisco,CA,94103,Unknown,0.45,OTHER,Other: explntion,Stripe Fees,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0088964,7/31/2023,7/31/2023,Stripe - Contribute,CORP,Y,,,,San Francisco,CA,94103,Unknown,0.59,OTHER,Other: explntion,Stripe Fees,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082143,3/31/2022,3/31/2022,Suggs Solutions LLC,CORP,Y,,,,Brooklyn,NY,11213,Unknown,30000.00,FUNDR,Fundraising,Fundraiser,,N,N
+2025,1,1545,P,Adams,Eric,L,N,2,F,,,R0083424,10/20/2022,10/20/2022,Suggs Solutions LLC,CORP,Y,,,,Brooklyn,NY,11213,Unknown,57289.30,CONSL,Campgn Consuls.,April- September Pay,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086887,,7/3/2023,Suggs Solutions LLC,CORP,Y,,,,Brooklyn,NY,11213,Advance,2925.00,ADVAN,Advance Repaymnt,Advance Repayment,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086911,4/30/2023,5/15/2023,Suggs Solutions LLC,CORP,Y,,,,Brooklyn,NY,11213,Unknown,8071.90,CONSL,Campgn Consuls.,March 22- April 30,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089421,3/13/2023,4/13/2023,Suggs Solutions LLC,CORP,Y,,,,Brooklyn,NY,11213,Unknown,7440.00,WAGES,Campgn Wrkrs $$,Consultant Fee,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089423,5/30/2023,6/5/2023,Suggs Solutions LLC,CORP,Y,,,,Brooklyn,NY,11213,Unknown,18832.90,WAGES,Campgn Wrkrs $$,Consultant Fee,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089426,6/30/2023,7/14/2023,Suggs Solutions LLC,CORP,Y,,,,Brooklyn,NY,11213,Unknown,88385.00,WAGES,Campgn Wrkrs $$,Consultant Fee,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089428,11/1/2023,11/1/2023,Suggs Solutions LLC,CORP,Y,,,,Brooklyn,NY,11213,Unknown,63967.06,WAGES,Campgn Wrkrs $$,Consultant Fee,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089429,6/9/2023,7/3/2023,Suggs Solutions LLC,CORP,Y,,,,Brooklyn,NY,11213,Unknown,2925.00,WAGES,Campgn Wrkrs $$,Consultant Fee,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086915,5/22/2023,5/22/2023,T mobile,CORP,Y,,,,Brooklyn,NY,11202,Unknown,84.16,OFFCE,Office Expenses,Phone Bill,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086916,11/21/2022,11/21/2022,T mobile,CORP,Y,,,,Brooklyn,NY,11202,Unknown,84.16,FUNDR,Fundraising,Service Charge,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086945,6/20/2023,6/20/2023,T mobile,CORP,Y,,,,Brooklyn,NY,11202,Unknown,84.16,OFFCE,Office Expenses,Phone Bill,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087071,9/30/2022,9/30/2022,T mobile,CORP,Y,,,,Brooklyn,NY,11202,Unknown,546.69,OFFCE,Office Expenses,Service Charge,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0087098,1/20/2023,1/20/2023,T mobile,CORP,Y,,,,Brooklyn,NY,11202,Unknown,84.16,OFFCE,Office Expenses,TMobile monthly bill,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0087102,2/21/2023,2/21/2023,T mobile,CORP,Y,,,,Brooklyn,NY,11202,Unknown,84.16,OFFCE,Office Expenses,cell phone bill,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0087104,3/20/2023,3/20/2023,T mobile,CORP,Y,,,,Brooklyn,NY,11202,Unknown,84.16,OFFCE,Office Expenses,monthly phone bill,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0087107,4/20/2023,4/20/2023,T mobile,CORP,Y,,,,Brooklyn,NY,11202,Unknown,84.16,OFFCE,Office Expenses,monthly phone bill,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0087584,9/30/2022,9/30/2022,T mobile,CORP,Y,,,,Brooklyn,NY,11202,Unknown,21.76,FUNDR,Fundraising,Service Charge,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089246,7/20/2023,7/20/2023,T mobile,CORP,Y,,,,Brooklyn,NY,11202,Unknown,84.16,OFFCE,Office Expenses,Phone Bill,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089328,10/20/2023,10/20/2023,T mobile,CORP,Y,,,,Brooklyn,NY,11202,Unknown,84.16,OFFCE,Office Expenses,Phone Bill,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089366,11/20/2023,11/20/2023,T mobile,CORP,Y,,,,Brooklyn,NY,11202,Unknown,84.16,OFFCE,Office Expenses,Phone Bill,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089367,9/20/2023,9/20/2023,T mobile,CORP,Y,,,,Brooklyn,NY,11202,Unknown,84.16,OFFCE,Office Expenses,Phone Bill,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089368,8/21/2023,8/21/2023,T mobile,CORP,Y,,,,Brooklyn,NY,11202,Unknown,84.16,OFFCE,Office Expenses,Phone Bill,,N,N
+2025,1,1545,P,Adams,Eric,L,N,2,F,,,R0083296,12/29/2022,12/29/2022,T-Mobile,PCOMC,Y,,,,Cincinnati,OH,45274,Unknown,84.16,OFFCE,Office Expenses,Phone Bill,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082139,3/28/2022,3/28/2022,TARGET,CORP,Y,,,,Brooklyn,NY,11217,Unknown,89.85,OFFCE,Office Expenses,Labels,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0087100,2/13/2023,2/13/2023,TARGET,CORP,Y,,,,Brooklyn,NY,11217,Unknown,75.80,OTHER,Other: explntion,Other,,N,N
+2025,1,1545,P,Adams,Eric,L,N,2,F,,,R0083548,2/23/2022,2/23/2022,TD Bank,CORP,Y,,,,Brooklyn,NY,11201,Unknown,20.00,BCFEES,Bank&Credit Fee,Bank Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,2,F,,,R0083550,3/15/2022,3/15/2022,TD Bank,CORP,Y,,,,Brooklyn,NY,11201,Unknown,20.00,BCFEES,Bank&Credit Fee,Bank Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0087117,5/9/2023,5/9/2023,TD Bank,CORP,Y,,,,Brooklyn,NY,11201,Unknown,30.00,BCFEES,Bank&Credit Fee,Wire Transfer Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0087119,5/16/2023,5/16/2023,TD Bank,CORP,Y,,,,Brooklyn,NY,11201,Unknown,30.00,BCFEES,Bank&Credit Fee,Wire Transfer Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0087590,6/26/2023,6/26/2023,TD Bank,CORP,Y,,,,Brooklyn,NY,11201,Unknown,20.00,BCFEES,Bank&Credit Fee,Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0087592,6/26/2023,6/26/2023,TD Bank,CORP,Y,,,,Brooklyn,NY,11201,Unknown,20.00,BCFEES,Bank&Credit Fee,bank fees,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089348,8/9/2023,8/9/2023,TD Bank,CORP,Y,,,,Brooklyn,NY,11201,Unknown,44.75,BCFEES,Bank&Credit Fee,Bank Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089373,9/28/2023,9/28/2023,TD Bank,CORP,Y,,,,Brooklyn,NY,11201,Unknown,20.00,BCFEES,Bank&Credit Fee,Dep Return Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089374,9/28/2023,9/28/2023,TD Bank,CORP,Y,,,,Brooklyn,NY,11201,Unknown,20.00,BCFEES,Bank&Credit Fee,Dep Return Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089375,9/28/2023,9/28/2023,TD Bank,CORP,Y,,,,Brooklyn,NY,11201,Unknown,20.00,BCFEES,Bank&Credit Fee,Dep Return Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089376,9/28/2023,9/28/2023,TD Bank,CORP,Y,,,,Brooklyn,NY,11201,Unknown,20.00,BCFEES,Bank&Credit Fee,Dep Return Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089382,10/4/2023,10/4/2023,TD Bank,CORP,Y,,,,Brooklyn,NY,11201,Unknown,20.00,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086649,5/1/2023,5/9/2023,Tulchin Research,CORP,Y,,,,San Francisco,CA,94104,Unknown,30000.00,POLLS,Polling Costs,Post Election Poll,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082135,3/14/2022,3/14/2022,United Airlines,CORP,Y,,,,Chicago,IL,60606,Unknown,208.60,OTHER,Other: explntion,Flight,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082185,5/2/2022,5/2/2022,United Airlines,CORP,Y,,,,Chicago,IL,60606,Unknown,230.00,OTHER,Other: explntion,Flight,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082186,5/2/2022,5/2/2022,United Airlines,CORP,Y,,,,Chicago,IL,60606,Unknown,147.00,OTHER,Other: explntion,flight,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082187,5/1/2022,5/1/2022,United Airlines,CORP,Y,,,,Chicago,IL,60606,Unknown,323.60,OTHER,Other: explntion,Flight,,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082188,5/1/2022,5/1/2022,United Airlines,CORP,Y,,,,Chicago,IL,60606,Unknown,323.60,OTHER,Other: explntion,flight,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0087195,8/8/2023,8/8/2023,USPS,OTHR,Y,,,,BOWLING GREEN,NY,10004,Unknown,145.29,OFFCE,Office Expenses,Mailing Fees,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0087198,8/8/2023,8/8/2023,USPS,OTHR,Y,,,,BOWLING GREEN,NY,10004,Unknown,110.22,OFFCE,Office Expenses,Mailing Fees,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086958,3/31/2022,3/31/2022,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,5081.47,FUNDR,Fundraising,Service Charge,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086959,11/30/2022,11/30/2022,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,1440.30,FUNDR,Fundraising,Service Charge,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087030,4/30/2022,4/30/2022,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,6630.04,FUNDR,Fundraising,Service Charge,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087031,2/28/2022,2/28/2022,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,1452.73,FUNDR,Fundraising,Service Charge,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087032,5/31/2022,5/31/2022,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,721.90,FUNDR,Fundraising,Service Charge,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087033,7/31/2022,7/31/2022,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,214.92,FUNDR,Fundraising,Service Charge,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087034,8/31/2022,8/31/2022,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,1037.53,FUNDR,Fundraising,Service Charge,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087035,9/30/2022,9/30/2022,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,561.39,FUNDR,Fundraising,Service Charge,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087036,10/31/2022,10/31/2022,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,2303.27,FUNDR,Fundraising,Service Charge,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087045,12/31/2022,12/31/2022,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,363.25,FUNDR,Fundraising,Service Charge,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087077,1/10/2023,1/10/2023,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,183.90,FUNDR,Fundraising,Service Fee,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0087109,2/9/2023,2/9/2023,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,176.40,FUNDR,Fundraising,Service Fees,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0087111,3/9/2023,3/9/2023,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,3.19,FUNDR,Fundraising,Service Fees,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0087113,4/11/2023,4/11/2023,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,1083.73,FUNDR,Fundraising,Service Fees,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0087115,5/9/2023,5/9/2023,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,878.86,FUNDR,Fundraising,Service Fees,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0087121,6/27/2023,6/27/2023,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,1100.00,FUNDR,Fundraising,Service Fees,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0087586,3/31/2023,3/31/2023,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,1023.73,BCFEES,Bank&Credit Fee,merchant account fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0087588,4/30/2023,4/30/2023,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,878.86,BCFEES,Bank&Credit Fee,merchant act fees,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0087594,6/30/2023,6/30/2023,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,16495.62,BCFEES,Bank&Credit Fee,Merchant act fees,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0087621,5/31/2023,5/31/2023,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,3474.55,BCFEES,Bank&Credit Fee,merchant act fees,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089302,8/9/2023,8/9/2023,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,2175.38,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089304,1/10/2023,1/10/2023,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,173.35,FUNDR,Fundraising,Service Fee,,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089385,8/11/2023,8/11/2023,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,1000.00,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089386,9/11/2023,9/11/2023,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,2317.80,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089388,10/11/2023,10/11/2023,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,1627.75,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089390,11/9/2023,11/9/2023,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,3779.84,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089394,11/24/2023,11/24/2023,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,2100.00,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089395,11/17/2023,11/17/2023,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,1100.00,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089396,11/16/2023,11/16/2023,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,1000.00,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,4,F,,,R0089406,12/11/2023,12/11/2023,Vantiv ECommerce Fund,CORP,Y,,,,,,,Unknown,770.70,BCFEES,Bank&Credit Fee,Service Fee,BCFEES,N,N
+2025,1,1545,P,Adams,Eric,L,N,1,F,,,R0082126,5/4/2022,5/4/2022,WALDORF AST ROOFTOP REST,CORP,Y,,,,Beverly Hills,CA,90210,Unknown,200.91,OTHER,Other: explntion,Meeting,,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0086929,6/15/2023,6/20/2023,Zero Bond,CORP,Y,,,,New York,NY,10012,Unknown,3969.55,FUNDR,Fundraising,"NY, NY PreReception",,N,N
+2025,1,1545,P,Adams,Eric,L,N,3,F,,,R0087073,4/17/2023,4/17/2023,Zero Bond,CORP,Y,,,,New York,NY,10012,Unknown,661.02,FUNDR,Fundraising,Campaign event,,N,N
+
